@@ -127,11 +127,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bank.cpp" />
+    <ClCompile Include="bankPro.cpp" />
+    <ClCompile Include="BetelgeuseanPro.cpp" />
+    <ClCompile Include="golfPro.cpp" />
+    <ClCompile Include="ListPro.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="movePro.cpp" />
+    <ClCompile Include="personPro.cpp" />
+    <ClCompile Include="salesPro.cpp" />
+    <ClCompile Include="stackPro.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="bank.h" />
+    <ClInclude Include="bankPro.h" />
+    <ClInclude Include="BetelgeuseanPro.h" />
+    <ClInclude Include="golfPro.h" />
+    <ClInclude Include="ListPro.h" />
+    <ClInclude Include="movePro.h" />
+    <ClInclude Include="personPro.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="salesPro.h" />
+    <ClInclude Include="stackPro.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

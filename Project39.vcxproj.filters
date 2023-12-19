@@ -18,12 +18,57 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="bank.cpp">
+    <ClCompile Include="bankPro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="personPro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="golfPro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="salesPro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stackPro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="movePro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BetelgeuseanPro.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ListPro.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="bank.h">
+    <ClInclude Include="bankPro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="personPro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="golfPro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="salesPro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stackPro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="movePro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BetelgeuseanPro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListPro.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
